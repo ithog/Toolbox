@@ -1,0 +1,3 @@
+/api/users?page=2
+/api/users/2
+/api/unknown
