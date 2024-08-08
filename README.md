@@ -13,7 +13,8 @@ Scripts and tools for pentesting
 
     #Krav
     - Python 3.x
-    - `requests`-library
+    - `requests`-
+    - textfil med en lista på api-ändelser
 
     #Användning
     Följ dessa kommandon steg för steg. Output från scriptet skrivs i kursiv text i instruktionerna.
