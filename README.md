@@ -3,7 +3,7 @@ Scripts and tools for pentesting
 
 1. ## API ##
 
-    #Översikt
+    #Översikt:
     Detta projekt innehåller ett Python-skript som gör det möjligt för användare att hämta data från ett API. Du kan använda detta skript för att göra HTTP GET-förfrågningar till olika API-endpoints. Du kan antingen ange en enda endpoint eller tillhandahålla en wordlist-fil som innehåller flera endpoints.
 
     #Funktioner
@@ -16,7 +16,7 @@ Scripts and tools for pentesting
     - `requests`-
     - textfil med en lista på api-ändelser
 
-    #Användning
+    #Användning:
     Följ dessa kommandon steg för steg. Output från scriptet skrivs i kursiv text i instruktionerna.
     1. Python3 fetchapi.py
     2. *Enter the base URL:* bas-URL
@@ -28,7 +28,7 @@ Scripts and tools for pentesting
 
 2. ## passwordcracker ##
 
-    #Översikt
+    #Översikt:
     Detta projekt innehåller ett Python-skript som knäcker lösenord genom att jämföra hash-värden med en lista över vanliga lösenord. Skriptet kan använda både SHA-256 och MD5 hash-algoritmer för att verifiera lösenord mot hash-värden.
 
     #Funktioner
@@ -40,7 +40,7 @@ Scripts and tools for pentesting
     - Textfil med lista på lösenord som ska jämföras mot hashvärden
     - Textfil med lista på hashvärden som ska jämföras mot lösenord
 
-    #Användning
+    #Användning:
     Följ dessa kommandon steg för steg. Output från scriptet skrivs i kursiv text i instruktionerna.
     1. python3 cracker.py
     2. *Ange sökväg till password list filen:* Lösenord.txt
